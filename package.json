@@ -16,7 +16,7 @@
 		"request": "^2.88.0",
 		"request-promise": "^4.2.2",
 		"twitch-js": "^1.2.17",
-		"urijs": "^1.19.1",
+		"urijs": "^1.19.4",
 		"winston": "^3.1.0"
 	},
 	"devDependencies": {
